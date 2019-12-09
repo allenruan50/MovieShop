@@ -15,7 +15,7 @@ using MovieShop.Entities;
 using MovieShop.Services;
 
 namespace MovieShop.API.Controllers
-{
+{   
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
